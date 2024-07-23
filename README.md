@@ -1,6 +1,6 @@
 # NFT-marketplace-scss
 
-Proyect for a online marketplace using SCSS 💻📑
+Proyect for an online marketplace using SCSS 💻📑
 
 ## Features
 
