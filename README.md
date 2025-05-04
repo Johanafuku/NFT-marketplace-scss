@@ -2,6 +2,10 @@
 
 Proyect for an online marketplace using SCSS 💻📑
 
+## Preview
+
+<img src='/code/img/preview_project.png' width="80%">
+
 ## Features
 
 - **Use of SCSS**: Use of SCSS for a better development of the style sheet, with defined variables, mixins and relationship of elements. ☑️ 
@@ -28,6 +32,10 @@ On your terminal define the folder where you would like to have the code and the
 # NFT-marketplace-scss
 
 Proyecto terminado haciendo uso de SCSS 💻📑
+
+## Vista previa
+
+<img src='/code/img/preview_project.png' width="80%">
 
 ## Características
 
